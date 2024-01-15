@@ -1,2 +1,2 @@
 # a1_agency
-Lending page for creative agency. 
+Landing page for creative agency. 
